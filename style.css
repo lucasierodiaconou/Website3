@@ -3,6 +3,9 @@
     background-color: #12263A;
     
 }
+.page-header{
+    margin-top: -300px;
+}
 /* change the brand and text color */
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
